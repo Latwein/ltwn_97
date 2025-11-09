@@ -1,0 +1,32 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Pytest ---
+.pytest_cache/
+.cache/
+
+# --- Virtual environments ---
+.venv/
+env/
+venv/
+
+# --- IDEs ---
+.idea/
+.vscode/
+
+# --- Logs and reports ---
+*.log
+reports/
+output/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Selenium specific (optional) ---
+screenshots/
+
+
